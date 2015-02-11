@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Ejemplo {
 	
-	//comentario de prueba	
+		
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     
